@@ -470,3 +470,4 @@ def detect_cycle_directed(graph):
 * **Cycle Detection**: Directed/Undirected.
 * **SCC**: Kosaraju’s algorithm on directed graphs.
 
+
